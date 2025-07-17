@@ -11,7 +11,7 @@ The model was trained and evaluated on [e.g., Apple (AAPL), Google (GOOGL)] stoc
 - Hyperparameter tuning and loss curve plotting
 
 ### 📁 Files
-- `Stock_Prediction_LSTM.ipynb`: Notebook with full workflow (data preprocessing → model → visualization)
+- `LSTM_stock_GE_AERO.ipynb`: Notebook with full workflow (data preprocessing → model → visualization)
 
 ### 🚀 Future Improvements
 - Add support for multiple stocks with dynamic ticker input
