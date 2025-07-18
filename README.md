@@ -1,5 +1,6 @@
 # 📈 Stock Price Prediction and Estimation using LSTM
 
+[Stock Price Prediction](https://github.com/manasrane/AeroSpaceGE_predictions)
 This project implements an LSTM-based model to predict stock price movements using historical time series data. It leverages the sequential learning capabilities of Long Short-Term Memory (LSTM) networks to forecast future closing prices of stocks.
 
 The model was trained and evaluated on [e.g., Apple (AAPL), Google (GOOGL)] stock data, and includes performance metrics, visualizations, and future price estimates.
